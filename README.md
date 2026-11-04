@@ -48,11 +48,11 @@ Here are some ideas to get you started:
 
 ### 📈 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pacca1412&show_icons=true&theme=radical&hide_border=true" height="165"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pacca1412&theme=radical&hide_border=true" height="165"/>
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacca1412&layout=compact&theme=radical&hide_border=true" height="165"/>
+
 </p>
 
 ---
@@ -77,11 +77,4 @@ Here are some ideas to get you started:
 </p>
 
 ---
- 
-```text
-Design       ██████████  Engineering and problem-solving
-AI & ML      ████████░░  Generative AI, LLMs and RAG
-Data         ████████░░  Analysis and visualization
-Automation   ███████░░░  Smarter technical workflows
-
 
