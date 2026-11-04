@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </h3>
 
 <p align="center">
-  Building practical solutions at the intersection of engineering, data, and AI.
+  I code to make life easier...
 </p>
 
 <p align="center">
@@ -32,10 +32,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/pacca1412">
-    <img
-      src="https://img.shields.io/github/followers/pacca1412?label=Followers&style=flat-square&color=blueviolet"
-      alt="GitHub followers"
-    />
+
   </a>
   <img
     src="https://img.shields.io/badge/Focus-Design%20%7C%20AI%20%7C%20Data-blueviolet?style=flat-square"
@@ -45,6 +42,17 @@ Here are some ideas to get you started:
     src="https://img.shields.io/badge/Status-Always%20Learning-success?style=flat-square"
     alt="Learning status"
   />
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=pacca1412&show_icons=true&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pacca1412&theme=radical&hide_border=true" height="165"/>
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacca1412&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -61,10 +69,19 @@ Here are some ideas to get you started:
 
 ---
 
-## 🎯 Current Focus
+### 📫 Let's Connect
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+</p>
 
+---
+ 
 ```text
 Design       ██████████  Engineering and problem-solving
 AI & ML      ████████░░  Generative AI, LLMs and RAG
 Data         ████████░░  Analysis and visualization
 Automation   ███████░░░  Smarter technical workflows
+
+
