@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- <h1 align="center">Hi there 👋</h1> -->
 
 <h3 align="center">
-  Design Engineer | AI Explorer | Data Enthusiast
+  ⚡ Design Engineer | 🤖 AI Explorer | 📊 Data Enthusiast
 </h3>
 
 <p align="center">
@@ -45,6 +45,10 @@ Here are some ideas to get you started:
   <img
     src="https://img.shields.io/badge/Status-Always%20Learning-success?style=flat-square"
     alt="Learning status"
+  />
+  <img
+    src="https://img.shields.io/badge/Mood-Curious%20Every%20Day-ff69b4?style=flat-square"
+    alt="Current mood"
   />
 </p>
 
@@ -81,5 +85,17 @@ Here are some ideas to get you started:
 </p>
 
 ---
+
+## 👻 Welcome to My Little Engineering Corner
+
+```text
+Quby has entered the repository...
+
+Mission:
+Learn something new.
+Build something useful.
+Break a few things.
+Fix them.
+Pretend everything went according to plan.
 
 
