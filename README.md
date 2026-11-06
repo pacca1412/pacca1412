@@ -12,9 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center" width="200" alt="Quby Hi" src="https://github.com/user-attachments/assets/a015f029-7b8c-497e-9cdb-816f682d4748" />
 
-<h1 align="center">Hi there 👋</h1>
+<p align="center">
+  <img width="300" alt="QubyHi-removed-bg" src="https://github.com/user-attachments/assets/98b1fdd8-b3e2-4bc5-b6ff-e34942d3ee5d" />
+</p>
+
+<!-- <h1 align="center">Hi there 👋</h1> -->
 
 <h3 align="center">
   Design Engineer | AI Explorer | Data Enthusiast
