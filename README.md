@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width="498" height="396" alt="Quby Hi" src="https://github.com/user-attachments/assets/a015f029-7b8c-497e-9cdb-816f682d4748" />
 
 <h1 align="center">Hi there 👋</h1>
 
