@@ -82,3 +82,56 @@ Here are some ideas to get you started:
 
 ---
 
+<p align="center"> 
+  <img width="260" alt="Quby Greeting" src="https://github.com" /> 
+</p>
+
+<h1 align="center">Hi there, I'm Ashraf! 👋</h1>
+<h3 align="center">Design Engineer 💻 | AI Explorer 🤖 | Data Enthusiast 📊</h3>
+
+<p align="center">
+  <i>"I code to make life easier..."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com" alt="Profile views" />
+  <img src="https://shields.io" alt="Focus areas" />
+  <img src="https://shields.io" alt="Learning status" />
+</p>
+
+---
+
+### 📑 About Me
+
+* 🔧 **Current Role:** Working in design and product engineering.
+* 🧩 **Approach:** Solving complex technical problems through structured design and data-driven experimentation.
+* 🤖 **Interests:** Exploring machine learning, generative AI, and large language models.
+* ⚙️ **Automation:** Building dedicated tools to simplify and optimize repetitive technical workflows.
+* 🌱 **Growth:** Currently deep-diving into AI-assisted design and automation systems.
+* 💬 **Let's Talk:** Happy to discuss engineering frameworks, data analytics, or applied AI.
+
+---
+
+### 📈 Activity & Stats
+
+<p align="center">
+  <img src="https://herokuapp.com" height="165" alt="GitHub Streak Stats"/>
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="#" target="_blank">
+    <img src="https://shields.io"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://shields.io"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://shields.io"/>
+  </a>
+</p>
+
+
