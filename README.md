@@ -77,6 +77,30 @@ Here are some ideas to get you started:
 
 ---
 
+<h2 align="center">
+  🔥 Languages, Frameworks & Tools 🔥
+</h2>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,tensorflow,sklearn&perline=7"
+    alt="HTML, CSS, JavaScript, Node.js, Python, TensorFlow and Scikit-learn"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"
+    alt="NumPy"
+  />
+  <img
+    src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"
+    alt="Keras"
+  />
+</p>
+
+---
+
 ### 📫 Let's Connect
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
